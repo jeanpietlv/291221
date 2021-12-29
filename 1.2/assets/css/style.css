@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+h1 {
+    font-size: 48px;
+    background-color: grey;
+    color: whitesmoke;
+    text-shadow: 10px 0px 5px whitesmoke;
+    font-family: tahoma;
+}
+
+nav p {
+    text-indent: 40px;
+    word-spacing: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main p {
+    text-indent: 40px;
+    word-spacing:-20px;
+}
+
+h2 {
+    text-shadow: 1px 1px 1px yellow;
+    letter-spacing: -10px;
+}
+
+section p {
+    background-color: lightcoral;
+    color:black;
+    line-height: 60px;
+}
+
+aside p {
+    background-color: grey;
+    color:white;
+    line-height: 30px;
+}
